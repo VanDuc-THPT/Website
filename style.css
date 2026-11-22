@@ -40,6 +40,20 @@ body {
     
 }
 
+.card img {
+  width: 410px;
+  height: 300px;
+}
+.card {
+  border: 2px solid;
+  border-radius: 4px;
+  box-shadow: 0 10px 30px #0005;
+}
+.card h1 {
+  text-align: center;
+  
+}
+
 /* =========================
    TIÊU ĐỀ VÀ NỘI DUNG
 ========================= */
