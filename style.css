@@ -57,7 +57,12 @@ body {
   text-align: center;
   
 }
-
+.video {
+   width: auto;
+   height: auto;
+   margin: 0 auto;
+   display: block;
+}
 /* =========================
    TIÊU ĐỀ VÀ NỘI DUNG
 ========================= */
